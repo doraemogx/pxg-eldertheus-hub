@@ -48,9 +48,23 @@ def enrich(s):
         s["category"]="Conteúdo especial / quest"
     else:
         s["category"]=s.get("kind","Mudanças gerais")
+    elemental = {
+        "Vikavolt": "Inseto/Elétrico: Pedra e Fogo são superefetivos; Elétrico é resistido.",
+        "Togekiss": "Fada/Voador: Elétrico é superefetivo.",
+        "Heatran": "Fogo/Aço: Terra tem efetividade 4x na tabela padrão.",
+        "Lucario": "Lutador/Aço: Fogo, Terra e Lutador são superefetivos.",
+        "Arcanine": "Fogo: Água, Pedra e Terra são superefetivos.",
+        "Typhlosion": "Fogo: Água, Pedra e Terra são superefetivos."
+    }
+    if name in elemental:
+        s["elementalContext"] = elemental[name]
+    s["trainerContext"] = "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7"
+    s["verification"] = "Mecânicas específicas do PXG ainda dependem de confirmação."
     # Não substituir análises editoriais já revisadas.
     if not s.get("impact"):
         s["impact"]="Avaliar o efeito para Eldertheus nível 598, considerando vantagem de tipo, risco e penalidades documentadas de XP/loot."
+    if s.get("elementalContext") and s.get("impact", "").startswith("Avaliar o efeito"):
+        s["impact"] = s["elementalContext"] + " A vantagem elemental isolada não garante sucesso na hunt ou dungeon."
     return s
 
 def main():
