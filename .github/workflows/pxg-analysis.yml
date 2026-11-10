@@ -1,0 +1,32 @@
+name: Enriquecer análises e imagens PXG
+on:
+  schedule:
+    - cron: '20 11 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: pxg-news-enrichment
+  cancel-in-progress: false
+jobs:
+  enrich:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Atualizar base antes de analisar
+        run: python scripts/sync_pxg_news.py
+      - name: Enriquecer notícias com dados e imagens da wiki
+        run: python scripts/enrich_pxg_news.py
+      - name: Publicar mudanças no próprio site
+        run: |
+          if ! git diff --quiet -- data/pxg-news.json; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/pxg-news.json
+            git commit -m "chore: enriquecer matérias PXG"
+            git pull --rebase
+            git push
+          fi
