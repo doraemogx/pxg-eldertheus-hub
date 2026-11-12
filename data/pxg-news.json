@@ -13,7 +13,10 @@
           "pokemon": null,
           "num": null,
           "change": "Disponível a partir de 12/11/2026 às 07:40 (ajustado ao seu fuso horário).",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Outras mudanças",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Quests e mapas",
@@ -21,7 +24,11 @@
           "pokemon": null,
           "num": null,
           "change": "Reformulamos o diálogo com o Thundurus. Agora, os desejos são escolhidos diretamente pela janela de diálogo, seguindo o mesmo padrão utilizado pelos demais NPCs.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "mapStatus": "Mapa oficial ainda não vinculado",
+          "category": "Conteúdo especial / quest",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Outras mudanças",
@@ -29,7 +36,10 @@
           "pokemon": null,
           "num": null,
           "change": "Adicionamos uma etapa de confirmação ao escolher um desejo, com uma espera de 5 segundos antes da confirmação.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Outras mudanças",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Outras mudanças",
@@ -37,7 +47,10 @@
           "pokemon": null,
           "num": null,
           "change": "Motivo: A alteração visa reduzir escolhas acidentais.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Outras mudanças",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Outras mudanças",
@@ -45,7 +58,10 @@
           "pokemon": null,
           "num": null,
           "change": "Alteramos as recompensas do Thundurus para que cada uma possa ser obtida apenas uma vez. Recompensas que o jogador já possui não serão mais exibidas entre as opções disponíveis.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Outras mudanças",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Outras mudanças",
@@ -53,7 +69,10 @@
           "pokemon": null,
           "num": null,
           "change": "Observação: Caso o jogador já possua todas as recompensas, o Thundurus informará que não possui mais desejos para conceder, e a lâmpada não será consumida.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Outras mudanças",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Outras mudanças",
@@ -61,7 +80,10 @@
           "pokemon": null,
           "num": null,
           "change": "Removemos o X-Block e a recompensa em dinheiro da lista de desejos do Thundurus.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Outras mudanças",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Outras mudanças",
@@ -69,7 +91,10 @@
           "pokemon": null,
           "num": null,
           "change": "Removemos a restrição que impedia o uso da lâmpada do Thundurus em zonas protegidas.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Outras mudanças",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Outras mudanças",
@@ -77,7 +102,10 @@
           "pokemon": null,
           "num": null,
           "change": "Fonte: canal oficial do PokeXGames no Discord.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Outras mudanças",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Outras mudanças",
@@ -85,7 +113,10 @@
           "pokemon": null,
           "num": null,
           "change": "Enquete de União dos Servidores: Obsidian e Snow",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Outras mudanças",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Outras mudanças",
@@ -93,7 +124,10 @@
           "pokemon": null,
           "num": null,
           "change": "Como vocês sabem, estamos sempre monitorando cuidadosamente as estatísticas de cada servidor para identificar o momento ideal para realizar uma união, sempre prezando por um ambiente estável, sem filas excessivas, lag ou sobrecarga.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Outras mudanças",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Outras mudanças",
@@ -101,7 +135,10 @@
           "pokemon": null,
           "num": null,
           "change": "Neste momento, após análise, concluímos que é viável realizar uma união entre os servidores Obsidian e Snow.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Outras mudanças",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Outras mudanças",
@@ -109,7 +146,10 @@
           "pokemon": null,
           "num": null,
           "change": "Por isso, foi criada uma enquete em cada um dos servidores mencionados, para que os jogadores decidam se aprovam ou não a união. As enquetes ficarão disponíveis por 2 dias.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Outras mudanças",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Outras mudanças",
@@ -117,7 +157,10 @@
           "pokemon": null,
           "num": null,
           "change": "Para votar, basta entrar no jogo e clicar na opção da enquete. Contamos com a sua participação.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Outras mudanças",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         }
       ],
       "source": "https://pxgtools.com.br/news",
