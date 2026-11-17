@@ -2,6 +2,296 @@
   "source": "https://pxgtools.com.br/news",
   "notes": [
     {
+      "id": "pxg-16-11-2026",
+      "date": "16/11/2026",
+      "title": "Atualização PXG · 16/11/2026",
+      "body": "Disponível a partir de 17/11/2026 às 07:40 (ajustado ao seu fuso horário). \nAlterações Gerais \nMelhoramos o funcionamento dos Item Finders de Aventureiro. Agora, além de indicar a direção do tesouro, o Item Finder também destaca no minimapa a área em que ele pode ser encontrado, facilitando a exploração e a localização do objetivo. \nÀ medida que o jogador utiliza outros Item Finders e restringe progressivamente a área de busca, o minimapa é atualizado para refletir essas alterações e orientar o jogador com mais precisão. \nQuando o jogador utilizar um Item Finder que indique uma distância na faixa verde ou aponte para o andar imediatamente acima ou abaixo, a localização exata do tesouro será marcada no minimapa com um ícone de baú. \nAjustamos o funcionamento dos Item Finders de Aventureiro para evitar que indiquem locais inacessíveis ou áreas específicas que não devem fazer parte da busca, incluindo a caverna dos Lapras na Union Cave, o final do Ice Path, o subsolo do Farol de Olivine, o Slowpoke Well e o Safari de Johto. \nRemovemos a experiência normal concedida pelos Terrores na dificuldade Nightmare, mantendo apenas o Improved EXP. \nMotivo: A dificuldade Nightmare só pode ser realizada por jogadores de nível 600 ou superior, e jogadores nesse nível recebem apenas Improved EXP. \nAlteramos a descrição do item Profession Rare Candy e a mensagem exibida ao tentar utilizá-lo quando todas as profissões estiverem no nível 100 ou superior. \nMotivo: A alteração visa informar com mais clareza que jogadores com nível 100 ou superior em todas as profissões podem trocar o item por 2 Profession Boosters com o NPC Dr. Roald, na área de Profissões do Nightmare World. \nAdicionamos um tutorial do PokéCase, exibido uma única vez por personagem na primeira coleta de loot. \nObservação: Caso a primeira coleta ocorra durante uma batalha, o tutorial será exibido apenas após o término do combate. \nMotivo: A adição visa apresentar o PokéCase no primeiro contato do jogador com o sistema de loot sem interromper o combate. \nAlteramos o limite de Pokémon que podem ser carregados para permitir apenas um Pokémon de cada espécie. \nAlteramos as recompensas da Wish Box e do Rainbow Egg que concedem Mega Pokémon. Agora, a Mega Stone será entregue separadamente do Pokémon. \nAdicionamos a possibilidade de criar ofertas de compra para as seguintes Mega Stones: Galladite, Sharpedonite, Dragalgite, Chimechite, Golisopite, Glimmoranite, Scovillainite, Baxcalibrite, Falinksite e Raichunite X. \nAdicionamos a possibilidade de criar ofertas de compra para os itens Potted Flowers obtidos nas dungeons de Valentines. \nAlterações no sistema de combate \nSimplificamos as opções de modo de combate, removendo o modo Balanced e facilitando a alternância entre os dois modos restantes. \nRemovemos o modo Balanced, mantendo apenas os modos Offensive e Defensive. \nAdicionamos um novo atalho que permite alternar entre os modos Offensive e Defensive utilizando uma única tecla. \nObservação: O atalho pode ser configurado em Atalhos &gt; Jogabilidade &gt; Modo de batalha. \nAlterações no Star Sign \nO sistema de Star Sign recebeu melhorias para facilitar a organização, a navegação e a identificação dos bônus disponíveis. \nAdicionamos a possibilidade de renomear as páginas de Star Sign. \nAumentamos a quantidade de páginas disponíveis de 3 para 5. \nAdicionamos um campo de busca que permite pesquisar pelo talento ou pelo tipo de bônus concedido. \nMelhoramos o posicionamento e o espaçamento dos títulos para acomodar melhor diferentes tamanhos de texto. \nAdicionamos uma opção de navegação entre as páginas de Star Sign acima do campo de busca, permitindo alternar entre elas sem retornar à página principal. \nAlteramos a exibição das descrições dos pontos de talento para que sejam exibidas próximas ao cursor do mouse ao passar sobre cada um deles. \nCorreções \nCorrigimos a posição e o tipo de minério do Super Recurso da profissão Engenheiro localizado na Charicific Valley. \nCorrigimos a animação de um dos itens de mapa presentes no Ascension Path. \nCorrigimos um erro visual que fazia com que a outfit Game Pass Easter 2022 Female apresentasse uma pequena cintilação ao se movimentar. \nCorrigimos diversas decorações que apresentavam erros visuais ao serem desempacotadas sobre um carpet. \nCorrigimos um erro que fazia com que as capturas dos Pokémon Shiny Hawlucha e Shiny Misdreavus não fossem contabilizadas nas conquistas de captura de Shiny. \nCorrigimos uma informação incorreta na Pokédex sobre o saque do Pokémon Gliscor. \nCorrigimos o registro de missão da NPC Misty, no Nightmare World, para informar que as recompensas recebidas variam de acordo com o nível do jogador. \nCorrigimos um erro que impedia o NPC Mite, no Nightmare World, de aceitar todos os tipos de notas em sua missão diária. \nCorrigimos um erro no diálogo do NPC Yami, no Nightmare World, que fazia com que ele confirmasse Cerulean em vez de Cinnabar ao selecionar Cinnabar como destino. \nCorrigimos um erro no ataque Black Hole do Pokémon Mega Absol que fazia com que Pokémon fossem derrubados indevidamente em buracos e escadas. \nCorrigimos um erro que fazia com que as conquistas de captura apresentassem um progresso incorreto após um rollback no servidor. \nObservação: O progresso será recalculado na primeira vez que o jogador abrir novamente a janela de conquistas. Caso esteja elegível para alguma conquista, ela será concedida imediatamente. \nGiovanni's Return Quest Spotlight #1: Seavell \nComo vocês já devem imaginar, a Giovanni's Return Quest está cada vez mais próxima, com lançamento previsto para o final deste mês! Então, é hora de começar a conhecer alguns dos Pokémon que farão parte dessa nova aventura. \nSabemos que tem muita gente ansiosa para descobrir as novidades, então preparamos algo especial: serão 10 dias de Spotlights, com novos Pokémon para vocês conhecerem a cada dia! Para começar, escolhemos o clã Seavell, com os Spotlights do Mega Greninja e do TM Alolan Sandslash que já estão disponíveis no https://discord.com/channels/459138221914193921/1083820092766306517. \nE vocês também vão participar escolhendo os próximos Spotlights! \nTodos os dias, teremos uma enquete aqui no canal, com duração de 8 horas, para vocês votarem no clã que gostariam de ver no Spotlight do dia seguinte. Então, não esqueçam de deixar seu voto! Esperamos que vocês curtam os Pokémon que preparamos! Fiquem de olho nos próximos Spotlights, porque ainda tem muita coisa para mostrar! \nUnião de Servidores - Rainbow e Snow \nOlá, pessoal! \nAmanhã, às 10h (BRT), os servidores Rainbow e Snow serão unidos em um único servidor chamado Rainbow! \nA união pode levar algumas horas para ser finalizada. Durante esse período, não será possível fazer login nos servidores envolvidos; portanto, pedimos que aguardem pacientemente o processo ser concluído.",
+      "sections": [
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Disponível a partir de 17/11/2026 às 07:40 (ajustado ao seu fuso horário).",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Quests e mapas",
+          "kind": "Quests e mapas",
+          "pokemon": null,
+          "num": null,
+          "change": "Melhoramos o funcionamento dos Item Finders de Aventureiro. Agora, além de indicar a direção do tesouro, o Item Finder também destaca no minimapa a área em que ele pode ser encontrado, facilitando a exploração e a localização do objetivo.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Quests e mapas",
+          "kind": "Quests e mapas",
+          "pokemon": null,
+          "num": null,
+          "change": "À medida que o jogador utiliza outros Item Finders e restringe progressivamente a área de busca, o minimapa é atualizado para refletir essas alterações e orientar o jogador com mais precisão.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Quests e mapas",
+          "kind": "Quests e mapas",
+          "pokemon": null,
+          "num": null,
+          "change": "Quando o jogador utilizar um Item Finder que indique uma distância na faixa verde ou aponte para o andar imediatamente acima ou abaixo, a localização exata do tesouro será marcada no minimapa com um ícone de baú.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Ajustamos o funcionamento dos Item Finders de Aventureiro para evitar que indiquem locais inacessíveis ou áreas específicas que não devem fazer parte da busca, incluindo a caverna dos Lapras na Union Cave, o final do Ice Path, o subsolo do Farol de Olivine, o Slowpoke Well e o Safari de Johto.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Removemos a experiência normal concedida pelos Terrores na dificuldade Nightmare, mantendo apenas o Improved EXP.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Motivo: A dificuldade Nightmare só pode ser realizada por jogadores de nível 600 ou superior, e jogadores nesse nível recebem apenas Improved EXP.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Profissões e economia",
+          "kind": "Profissões e economia",
+          "pokemon": null,
+          "num": null,
+          "change": "Alteramos a descrição do item Profession Rare Candy e a mensagem exibida ao tentar utilizá-lo quando todas as profissões estiverem no nível 100 ou superior.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Quests e mapas",
+          "kind": "Quests e mapas",
+          "pokemon": null,
+          "num": null,
+          "change": "Motivo: A alteração visa informar com mais clareza que jogadores com nível 100 ou superior em todas as profissões podem trocar o item por 2 Profession Boosters com o NPC Dr. Roald, na área de Profissões do Nightmare World.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Profissões e economia",
+          "kind": "Profissões e economia",
+          "pokemon": null,
+          "num": null,
+          "change": "Adicionamos um tutorial do PokéCase, exibido uma única vez por personagem na primeira coleta de loot.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Profissões e economia",
+          "kind": "Profissões e economia",
+          "pokemon": null,
+          "num": null,
+          "change": "Observação: Caso a primeira coleta ocorra durante uma batalha, o tutorial será exibido apenas após o término do combate.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Motivo: A adição visa apresentar o PokéCase no primeiro contato do jogador com o sistema de loot sem interromper o combate.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Alteramos o limite de Pokémon que podem ser carregados para permitir apenas um Pokémon de cada espécie.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Alteramos as recompensas da Wish Box e do Rainbow Egg que concedem Mega Pokémon. Agora, a Mega Stone será entregue separadamente do Pokémon.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Raichu",
+          "kind": "Outras mudanças",
+          "pokemon": "Raichu",
+          "num": 26,
+          "change": "Adicionamos a possibilidade de criar ofertas de compra para as seguintes Mega Stones: Galladite, Sharpedonite, Dragalgite, Chimechite, Golisopite, Glimmoranite, Scovillainite, Baxcalibrite, Falinksite e Raichunite X.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Dimensional Zone",
+          "kind": "Dimensional Zone",
+          "pokemon": null,
+          "num": null,
+          "change": "Adicionamos a possibilidade de criar ofertas de compra para os itens Potted Flowers obtidos nas dungeons de Valentines.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Alterações no sistema de combate",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Simplificamos as opções de modo de combate, removendo o modo Balanced e facilitando a alternância entre os dois modos restantes.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Removemos o modo Balanced, mantendo apenas os modos Offensive e Defensive.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Adicionamos um novo atalho que permite alternar entre os modos Offensive e Defensive utilizando uma única tecla.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Observação: O atalho pode ser configurado em Atalhos &gt; Jogabilidade &gt; Modo de batalha.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Builds e mecânicas",
+          "kind": "Builds e mecânicas",
+          "pokemon": null,
+          "num": null,
+          "change": "O sistema de Star Sign recebeu melhorias para facilitar a organização, a navegação e a identificação dos bônus disponíveis.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Builds e mecânicas",
+          "kind": "Builds e mecânicas",
+          "pokemon": null,
+          "num": null,
+          "change": "Adicionamos a possibilidade de renomear as páginas de Star Sign.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Aumentamos a quantidade de páginas disponíveis de 3 para 5.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Adicionamos um campo de busca que permite pesquisar pelo talento ou pelo tipo de bônus concedido.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Melhoramos o posicionamento e o espaçamento dos títulos para acomodar melhor diferentes tamanhos de texto.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Builds e mecânicas",
+          "kind": "Builds e mecânicas",
+          "pokemon": null,
+          "num": null,
+          "change": "Adicionamos uma opção de navegação entre as páginas de Star Sign acima do campo de busca, permitindo alternar entre elas sem retornar à página principal.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Alteramos a exibição das descrições dos pontos de talento para que sejam exibidas próximas ao cursor do mouse ao passar sobre cada um deles.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Profissões e economia",
+          "kind": "Profissões e economia",
+          "pokemon": null,
+          "num": null,
+          "change": "Corrigimos a posição e o tipo de minério do Super Recurso da profissão Engenheiro localizado na Charicific Valley.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Quests e mapas",
+          "kind": "Quests e mapas",
+          "pokemon": null,
+          "num": null,
+          "change": "Corrigimos a animação de um dos itens de mapa presentes no Ascension Path.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Corrigimos um erro visual que fazia com que a outfit Game Pass Easter 2022 Female apresentasse uma pequena cintilação ao se movimentar.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Corrigimos diversas decorações que apresentavam erros visuais ao serem desempacotadas sobre um carpet.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Hunts e respawns",
+          "kind": "Hunts e respawns",
+          "pokemon": null,
+          "num": null,
+          "change": "Corrigimos um erro que fazia com que as capturas dos Pokémon Shiny Hawlucha e Shiny Misdreavus não fossem contabilizadas nas conquistas de captura de Shiny.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Corrigimos uma informação incorreta na Pokédex sobre o saque do Pokémon Gliscor.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Quests e mapas",
+          "kind": "Quests e mapas",
+          "pokemon": null,
+          "num": null,
+          "change": "Corrigimos o registro de missão da NPC Misty, no Nightmare World, para informar que as recompensas recebidas variam de acordo com o nível do jogador.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        }
+      ],
+      "source": "https://pxgtools.com.br/news",
+      "sourceType": "Comunicado público reproduzido"
+    },
+    {
       "id": "pxg-11-11-2026",
       "date": "11/11/2026",
       "title": "Atualização PXG · 11/11/2026",
