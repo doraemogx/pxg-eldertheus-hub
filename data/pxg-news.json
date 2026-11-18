@@ -2,6 +2,120 @@
   "source": "https://pxgtools.com.br/news",
   "notes": [
     {
+      "id": "pxg-17-11-2026",
+      "date": "17/11/2026",
+      "title": "Atualização PXG · 17/11/2026",
+      "body": "Disponível a partir de 18/11/2026 às 07:40 (ajustado ao seu fuso horário). \nAlterações Gerais \nAlteramos o funcionamento da Salac Berry e do Salac Berry Cake para permitir que um efeito substitua o outro no Pokémon sem a necessidade de aguardar o término do efeito atual. \nObservação: Ao confirmar a substituição, o tempo restante do efeito anterior será perdido, e o novo efeito começará com sua duração completa. \nCorreções \nCorrigimos um erro que fazia com que a mensagem sobre o limite semanal, exibida ao tentar reutilizar o Johto Chronicle, aparecesse em inglês mesmo com o cliente configurado em português. \nCorrigimos um erro visual que fazia com que as versões femininas das outfits Halloween 2026 e Halloween 2026 Colored apresentassem uma leve cintilação durante o movimento. \nCorrigimos um erro que fazia com que as versões redondas dos avatares Pierrot Male e Pierrot Female, exibidas no Perfil Privado e na Comunidade, aparecessem invertidas. \nCorrigimos um erro que ainda permitia que os Item Finders indicassem tesouros localizados dentro do Safari de Johto e no subsolo do Farol de Olivine. \nCorrigimos um erro que fazia com que a área de busca dos Item Finders desaparecesse do minimapa quando o tesouro estava a mais de um andar de distância. \nFonte: canal oficial do PokeXGames no Discord. \nGiovanni's Return Quest Spotlight #2: Orebound \nBoa tarde, pessoal! \nO segundo dia de Spotlights da Giovanni's Return Quest chegou! Vocês escolheram Orebound na enquete de ontem, então hoje os destaques ficam com o Mega Golurk e TM Crystal Onix! Confiram os Spotlights no https://discord.com/channels/459138221914193921/1083820092766306517. \nCom Orebound e Seavell publicados, qual será o próximo spotlight? \nUma nova enquete ficará disponível por 8 horas para vocês escolherem os próximos destaques. Não deixem de votar!",
+      "sections": [
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Disponível a partir de 18/11/2026 às 07:40 (ajustado ao seu fuso horário).",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Alteramos o funcionamento da Salac Berry e do Salac Berry Cake para permitir que um efeito substitua o outro no Pokémon sem a necessidade de aguardar o término do efeito atual.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Observação: Ao confirmar a substituição, o tempo restante do efeito anterior será perdido, e o novo efeito começará com sua duração completa.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Corrigimos um erro que fazia com que a mensagem sobre o limite semanal, exibida ao tentar reutilizar o Johto Chronicle, aparecesse em inglês mesmo com o cliente configurado em português.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Corrigimos um erro visual que fazia com que as versões femininas das outfits Halloween 2026 e Halloween 2026 Colored apresentassem uma leve cintilação durante o movimento.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Corrigimos um erro que fazia com que as versões redondas dos avatares Pierrot Male e Pierrot Female, exibidas no Perfil Privado e na Comunidade, aparecessem invertidas.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Corrigimos um erro que ainda permitia que os Item Finders indicassem tesouros localizados dentro do Safari de Johto e no subsolo do Farol de Olivine.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Quests e mapas",
+          "kind": "Quests e mapas",
+          "pokemon": null,
+          "num": null,
+          "change": "Corrigimos um erro que fazia com que a área de busca dos Item Finders desaparecesse do minimapa quando o tesouro estava a mais de um andar de distância.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Fonte: canal oficial do PokeXGames no Discord.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Quests e mapas",
+          "kind": "Quests e mapas",
+          "pokemon": null,
+          "num": null,
+          "change": "Giovanni's Return Quest Spotlight #2: Orebound",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Quests e mapas",
+          "kind": "Quests e mapas",
+          "pokemon": null,
+          "num": null,
+          "change": "O segundo dia de Spotlights da Giovanni's Return Quest chegou! Vocês escolheram Orebound na enquete de ontem, então hoje os destaques ficam com o Mega Golurk e TM Crystal Onix! Confiram os Spotlights no https://discord.com/channels/459138221914193921/1083820092766306517.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Com Orebound e Seavell publicados, qual será o próximo spotlight?",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Uma nova enquete ficará disponível por 8 horas para vocês escolherem os próximos destaques. Não deixem de votar!",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        }
+      ],
+      "source": "https://pxgtools.com.br/news",
+      "sourceType": "Comunicado público reproduzido"
+    },
+    {
       "id": "pxg-16-11-2026",
       "date": "16/11/2026",
       "title": "Atualização PXG · 16/11/2026",
