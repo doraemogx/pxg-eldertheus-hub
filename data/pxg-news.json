@@ -13,7 +13,10 @@
           "pokemon": null,
           "num": null,
           "change": "Disponível a partir de 19/11/2026 às 07:40 (ajustado ao seu fuso horário).",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Outras mudanças",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Outras mudanças",
@@ -21,7 +24,10 @@
           "pokemon": null,
           "num": null,
           "change": "Adicionamos o novo item Arena Superior Addon Ticket ao painel de criação da Training Room por 800 Arena Superior Tokens.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Outras mudanças",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Outras mudanças",
@@ -29,7 +35,10 @@
           "pokemon": null,
           "num": null,
           "change": "Alteramos as receitas de criação de todos os addons da Arena para utilizar o novo Arena Superior Addon Ticket.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Outras mudanças",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Outras mudanças",
@@ -37,7 +46,10 @@
           "pokemon": null,
           "num": null,
           "change": "Motivo: A alteração oferece mais liberdade e proteção aos jogadores, facilitando a troca e a venda desses cosméticos.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Outras mudanças",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Builds e mecânicas",
@@ -45,7 +57,10 @@
           "pokemon": null,
           "num": null,
           "change": "Alteramos o intervalo de uso dos ataques:",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Builds e mecânicas",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Builds e mecânicas",
@@ -53,7 +68,10 @@
           "pokemon": null,
           "num": null,
           "change": "Reduzimos o intervalo necessário entre a utilização de um ataque e outro, tornando suas execuções mais rápidas e fluidas.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Builds e mecânicas",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Builds e mecânicas",
@@ -61,7 +79,10 @@
           "pokemon": null,
           "num": null,
           "change": "Alteramos o funcionamento que impedia o jogador de utilizar ataques do Pokémon após tentar utilizar outro ataque que ainda não estivesse com o tempo de recarga totalmente concluído.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Builds e mecânicas",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Builds e mecânicas",
@@ -69,7 +90,10 @@
           "pokemon": null,
           "num": null,
           "change": "Observação: Com essa alteração, essa situação não bloqueará mais o uso dos demais ataques disponíveis.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Builds e mecânicas",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Builds e mecânicas",
@@ -77,7 +101,10 @@
           "pokemon": null,
           "num": null,
           "change": "Motivo: Essas alterações de qualidade de vida buscam tornar a jogabilidade diária mais fluida e reduzir a necessidade de pressionar repetidamente a mesma tecla ao utilizar ataques consecutivos.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Builds e mecânicas",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Hunts e respawns",
@@ -85,7 +112,11 @@
           "pokemon": null,
           "num": null,
           "change": "Observação: Essas alterações não afetam Pokémon selvagens.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "mapStatus": "Mapa oficial ainda não vinculado",
+          "category": "Hunts e respawns",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Outras mudanças",
@@ -93,7 +124,10 @@
           "pokemon": null,
           "num": null,
           "change": "Liberamos a busca por jogadores offline ou de outros servidores por meio da janela de Perfil.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Outras mudanças",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Quests e mapas",
@@ -101,7 +135,11 @@
           "pokemon": null,
           "num": null,
           "change": "Atualizamos a lista de Pokémon disponíveis para remoção de Held Item pelo NPC Jorge.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "mapStatus": "Mapa oficial ainda não vinculado",
+          "category": "Conteúdo especial / quest",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Builds e mecânicas",
@@ -109,7 +147,10 @@
           "pokemon": null,
           "num": null,
           "change": "Renomeamos o ataque Healarea para Aurora Wish.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Builds e mecânicas",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Builds e mecânicas",
@@ -117,7 +158,10 @@
           "pokemon": null,
           "num": null,
           "change": "Adicionamos a característica NEVERMISS aos ataques Aura Sphere, Shadow Punch, Nightmare, Spicy Extract, Clear Smog e Catastropika.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Conteúdo especial / quest",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Builds e mecânicas",
@@ -125,7 +169,10 @@
           "pokemon": null,
           "num": null,
           "change": "Removemos a característica NEVERMISS dos ataques Curse e Sharpen.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Builds e mecânicas",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Builds e mecânicas",
@@ -133,7 +180,10 @@
           "pokemon": null,
           "num": null,
           "change": "Adicionamos um efeito visual e uma mensagem animada quando o tempo de recarga de um ataque é reduzido por BOOST, como ocorre em batalhas PvP.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Builds e mecânicas",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Builds e mecânicas",
@@ -141,7 +191,10 @@
           "pokemon": null,
           "num": null,
           "change": "Revisamos o ataque Frenzy Plant. Agora, ele cancela os ataques Magnitude e Earthquake e impede que sejam utilizados durante 6 segundos.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Builds e mecânicas",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Builds e mecânicas",
@@ -149,7 +202,10 @@
           "pokemon": null,
           "num": null,
           "change": "Otimizamos o ataque Freeze-Dry para que o Pokémon possa redirecionar o raio de gelo frontal durante sua utilização. Também revisamos o tempo de atraso e seu funcionamento em situações raras nas quais o Pokémon é puxado durante o ataque.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Builds e mecânicas",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Builds e mecânicas",
@@ -157,7 +213,10 @@
           "pokemon": null,
           "num": null,
           "change": "Bloqueamos a possibilidade de refletir os ataques Spectral Crusher, Coaching, Thief, Trailblaze e Hand Water Gun, além da habilidade passiva Ninja Slice.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Builds e mecânicas",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Builds e mecânicas",
@@ -165,7 +224,10 @@
           "pokemon": null,
           "num": null,
           "change": "Reduzimos o alcance máximo do ataque Power-Up Punch.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Builds e mecânicas",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Builds e mecânicas",
@@ -173,7 +235,10 @@
           "pokemon": null,
           "num": null,
           "change": "Adicionamos as habilidades Rock Smash e Headbutt ao Pokémon Escavalier.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Builds e mecânicas",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Outras mudanças",
@@ -181,7 +246,10 @@
           "pokemon": null,
           "num": null,
           "change": "Observação: Essa alteração também afeta sua versão TR.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Outras mudanças",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Hunts e respawns",
@@ -189,7 +257,11 @@
           "pokemon": null,
           "num": null,
           "change": "TM Shiny Tentacruel - Ajuste",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "mapStatus": "Mapa oficial ainda não vinculado",
+          "category": "Hunts e respawns",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Builds e mecânicas",
@@ -197,7 +269,10 @@
           "pokemon": null,
           "num": null,
           "change": "Aumentamos o tempo de recarga do ataque Acid de 8 para 10 segundos.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Builds e mecânicas",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Builds e mecânicas",
@@ -205,7 +280,10 @@
           "pokemon": null,
           "num": null,
           "change": "Reduzimos o tempo de recarga do ataque Wrap de 30 para 22 segundos.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Builds e mecânicas",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Builds e mecânicas",
@@ -213,7 +291,10 @@
           "pokemon": null,
           "num": null,
           "change": "Aumentamos a força dos ataques Acid e Sludge Wave.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Builds e mecânicas",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Builds e mecânicas",
@@ -221,7 +302,10 @@
           "pokemon": null,
           "num": null,
           "change": "Reduzimos a força do ataque Deadly Ooze.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Builds e mecânicas",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Builds e mecânicas",
@@ -229,7 +313,10 @@
           "pokemon": null,
           "num": null,
           "change": "Observação: O DPS final não foi alterado. A alteração visa otimizar a distribuição de dano do Pokémon e tornar seus tempos de recarga mais coerentes com a nova velocidade de utilização dos ataques.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Builds e mecânicas",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Raichu",
@@ -237,7 +324,10 @@
           "pokemon": "Raichu",
           "num": 26,
           "change": "TM Shiny Raichu - Ajuste",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Hunts e respawns",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Builds e mecânicas",
@@ -245,7 +335,10 @@
           "pokemon": null,
           "num": null,
           "change": "Reduzimos o tempo de recarga dos seguintes ataques:",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Builds e mecânicas",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Outras mudanças",
@@ -253,7 +346,10 @@
           "pokemon": null,
           "num": null,
           "change": "Thunder Shock: 10 → 8 segundos.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Outras mudanças",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Outras mudanças",
@@ -261,7 +357,10 @@
           "pokemon": null,
           "num": null,
           "change": "Thunderbolt: 20 → 12 segundos.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Outras mudanças",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Builds e mecânicas",
@@ -269,7 +368,10 @@
           "pokemon": null,
           "num": null,
           "change": "Aumentamos o tempo de recarga do ataque Volt Fang de 10 para 15 segundos.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Builds e mecânicas",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Builds e mecânicas",
@@ -277,7 +379,10 @@
           "pokemon": null,
           "num": null,
           "change": "Reduzimos a força do ataque Thunder Shock.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Builds e mecânicas",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         },
         {
           "title": "Builds e mecânicas",
@@ -285,7 +390,10 @@
           "pokemon": null,
           "num": null,
           "change": "Aumentamos a força do ataque Volt Fang.",
-          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido.",
+          "category": "Builds e mecânicas",
+          "trainerContext": "Eldertheus · nível 598 · Raibolt · equipe elétrica com cinco Attack T8 e um Attack T7",
+          "verification": "Mecânicas específicas do PXG ainda dependem de confirmação."
         }
       ],
       "source": "https://pxgtools.com.br/news",
