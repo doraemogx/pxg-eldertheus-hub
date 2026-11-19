@@ -2,6 +2,296 @@
   "source": "https://pxgtools.com.br/news",
   "notes": [
     {
+      "id": "pxg-18-11-2026",
+      "date": "18/11/2026",
+      "title": "Atualização PXG · 18/11/2026",
+      "body": "Disponível a partir de 19/11/2026 às 07:40 (ajustado ao seu fuso horário). \nNovidades \nAdicionamos o novo item Arena Superior Addon Ticket ao painel de criação da Training Room por 800 Arena Superior Tokens. \nAlteramos as receitas de criação de todos os addons da Arena para utilizar o novo Arena Superior Addon Ticket. \nMotivo: A alteração oferece mais liberdade e proteção aos jogadores, facilitando a troca e a venda desses cosméticos. \nAlterações Gerais \nAlteramos o intervalo de uso dos ataques: \nReduzimos o intervalo necessário entre a utilização de um ataque e outro, tornando suas execuções mais rápidas e fluidas. \nAlteramos o funcionamento que impedia o jogador de utilizar ataques do Pokémon após tentar utilizar outro ataque que ainda não estivesse com o tempo de recarga totalmente concluído. \nObservação: Com essa alteração, essa situação não bloqueará mais o uso dos demais ataques disponíveis. \nMotivo: Essas alterações de qualidade de vida buscam tornar a jogabilidade diária mais fluida e reduzir a necessidade de pressionar repetidamente a mesma tecla ao utilizar ataques consecutivos. \nObservação: Essas alterações não afetam Pokémon selvagens. \nLiberamos a busca por jogadores offline ou de outros servidores por meio da janela de Perfil. \nAtualizamos a lista de Pokémon disponíveis para remoção de Held Item pelo NPC Jorge. \nRenomeamos o ataque Healarea para Aurora Wish. \nAdicionamos a característica NEVERMISS aos ataques Aura Sphere, Shadow Punch, Nightmare, Spicy Extract, Clear Smog e Catastropika. \nRemovemos a característica NEVERMISS dos ataques Curse e Sharpen. \nAdicionamos um efeito visual e uma mensagem animada quando o tempo de recarga de um ataque é reduzido por BOOST, como ocorre em batalhas PvP. \nRevisamos o ataque Frenzy Plant. Agora, ele cancela os ataques Magnitude e Earthquake e impede que sejam utilizados durante 6 segundos. \nOtimizamos o ataque Freeze-Dry para que o Pokémon possa redirecionar o raio de gelo frontal durante sua utilização. Também revisamos o tempo de atraso e seu funcionamento em situações raras nas quais o Pokémon é puxado durante o ataque. \nBloqueamos a possibilidade de refletir os ataques Spectral Crusher, Coaching, Thief, Trailblaze e Hand Water Gun, além da habilidade passiva Ninja Slice. \nReduzimos o alcance máximo do ataque Power-Up Punch. \nAdicionamos as habilidades Rock Smash e Headbutt ao Pokémon Escavalier. \nObservação: Essa alteração também afeta sua versão TR. \nTM Shiny Tentacruel - Ajuste \nAumentamos o tempo de recarga do ataque Acid de 8 para 10 segundos. \nReduzimos o tempo de recarga do ataque Wrap de 30 para 22 segundos. \nAumentamos a força dos ataques Acid e Sludge Wave. \nReduzimos a força do ataque Deadly Ooze. \nObservação: O DPS final não foi alterado. A alteração visa otimizar a distribuição de dano do Pokémon e tornar seus tempos de recarga mais coerentes com a nova velocidade de utilização dos ataques. \nTM Shiny Raichu - Ajuste \nReduzimos o tempo de recarga dos seguintes ataques: \nThunder Shock: 10 → 8 segundos. \nThunderbolt: 20 → 12 segundos. \nAumentamos o tempo de recarga do ataque Volt Fang de 10 para 15 segundos. \nReduzimos a força do ataque Thunder Shock. \nAumentamos a força do ataque Volt Fang. \nTM Shiny Charizard - Ajuste \nReduzimos o tempo de recarga do ataque Ember de 10 para 8 segundos. \nReduzimos a força dos ataques Ember e Fire Ball. \nCorreções \nCorrigimos um erro na interação entre o ataque Reflect e ataques como Chilling Water, Leer, Rising Voltage, Grassy Glide, Acid Spray, Knock Off, Wood Hammer, Crush Claw e Tail Whip. \nCorrigimos um erro na interação entre o clima de chuva e a habilidade passiva Flash Fire que fazia com que o Pokémon Heatran não fosse afetado corretamente pelos ataques de seus aliados. \nCorrigimos um erro na interação entre o clima de chuva e algumas habilidades passivas, como Justified e Sap Sipper, entre outras. \nCorrigimos um erro visual no ataque Thunder Sphere de alguns Pokémon. \nCorrigimos um erro visual no ataque Dust Devil Formation que fazia com que o temporizador da condição IMPARÁVEL concedida pelo ataque não fosse exibido. \nCorrigimos um erro que permitia utilizar alguns Mega Pokémon T1H indevidamente em duelos de rua. \nCorrigimos um erro que fazia com que o TM Shiny Machamp não aplicasse corretamente o dano dos ataques Mach Punch e Close Combat após a atualização de 18/11. \nCorrigimos um erro visual que fazia com que o veículo da Pierrot, em sua versão masculina, deixasse de ser exibido por alguns milissegundos. \nShiny Magcargo - Buff \nReduzimos o tempo de recarga do ataque Inferno de 70 para 60 segundos apenas no PvP. \nShiny Carbink - Buff \nReduzimos a duração do ataque Charm de 15 para 10 segundos. \nObservação: Essa alteração não afeta outros Pokémon que utilizam esse ataque. \nRevisamos o ataque Sharpen: \nAdicionamos invulnerabilidade ao Pokémon durante o ataque. \nAdicionamos o retorno de 50% do dano que o Pokémon receberia. \nReduzimos a duração de 5 para 4 segundos. \nRemovemos a característica NEVERMISS. \nRemovemos o efeito de Taunt/Attraction. \nExcadrill - Buff \nRemovemos o ataque Horn Drill. \nAdicionamos o ataque Shadow Claw adaptado. \nReduzimos o tempo de recarga do ataque Crush Claw adaptado de 50 para 40 segundos. \nCorrigimos um erro visual na interação entre os ataques Dig e Crush Claw. \nElite Hitmonchan - Buff \nLiberamos o uso do ataque Elemental Hands durante duelos PvP. \nMantine - Buff \nAdicionamos a habilidade passiva Water Veil. \nSkarmory - Buff \nReduzimos o tempo de recarga do ataque Sky Attack de 80 para 60 segundos apenas no PvP. \nAlolan Golem - Ajuste \nRemovemos o ataque Harden. \nAdicionamos o ataque Defense Curl. \nAumentamos a força do ataque Rock Throw apenas no PvE. \nReduzimos a força do ataque Rock Slide apenas no PvE. \nReduzimos o tempo de recarga do ataque Rock Slide de 12 para 10 segundos apenas no PvE. \nShiny Aegislash - Ajuste \nReduzimos o tempo de recarga do ataque Counter Assault de 50 para 40 segundos. \nAumentamos o tempo de recarga do ataque Gyro Ball de 40 para 50 segundos. \nShiny Ariados - Ajuste \nReduzimos o tempo de recarga do ataque Web Rain de 50 para 40 segundos apenas no PvE. \nAumentamos o tempo de recarga do ataque Swords Dance de 40 para 50 segundos apenas no PvE. \nCrobat, TR Talonflame e TR Skarmory - Ajuste \nAumentamos a área de impacto do ataque Fly. \nAceleramos o ataque Fly dos Pokémon Crobat e TR Talonflame para que tenha a mesma duração da versão utilizada pelo TR Skarmory. \nTR Charizard - Ajuste \nRemovemos os ataques Fire Ball e Flare Blitz. \nAdicionamos os ataques Dragon Claw e Blast Burn. \nRebalanceamos a força dos ataques em área. \nObservação: O dano total em área não foi alterado. As alterações apenas aceleraram sua aplicação. \nShiny Pupitar - Buff \nRebalanceamos a força e o tempo de recarga dos ataques do Pokémon em conteúdos PvE. \nObservação: O DPS e o dano em área foram mantidos em conteúdos neutros. Em conteúdos elementais fracos contra GROUND-type, o Pokémon ficou levemente mais forte. \nShiny Manectric - Buff \nReduzimos a força dos ataques Volt Fang e Discharge apenas no PvE. \nAumentamos a força do ataque Thunder apenas no PvE. \nReduzimos o tempo de recarga do ataque Electro Ball de 12 para 10 segundos apenas no PvE. \nObservação: Aumentamos levemente o DPS efetivo do Pokémon e melhoramos sua distribuição de dano. O dano final em área não foi alterado. \nShiny Gogoat - Buff \nAumentamos a força dos ataques Razor Leaf, Leaf Blade e Grass Knot apenas no PvE. \nAumentamos o tempo de recarga dos seguintes ataques apenas no PvE: \nLeaf Blade: 8 → 10 segundos. \nGrass Knot: 10 → 12 segundos. \nObservação: Aumentamos levemente o DPS efetivo do Pokémon e melhoramos sua distribuição de dano. \nShiny Tangela - Buff \nReduzimos a força do ataque Bullet Seed. \nAumentamos a força dos ataques Grass Knot e Power Whip. \nReduzimos o tempo de recarga do ataque Bullet Seed de 15 para 10 segundos. \nReorganizamos a ordem dos ataques. \nShiny Togekiss - Ajuste \nAumentamos a força do ataque Magic Trick. \nAumentamos o tempo de recarga do ataque Magic Trick de 10 para 12 segundos. \nShiny Houndoom - Ajuste \nReduzimos a força do ataque Ember. \nAumentamos a força do ataque Flamethrower. \nTM Alolan Ninetales - Ajuste \nAumentamos o tempo de recarga do ataque Icicle Spear de 8 para 10 segundos. \nAumentamos a força dos ataques Icicle Spear, Frost Breath e Aurora Beam. \nReduzimos a força do ataque Sheer Cold. \nNovo Servidor: Amber \nOlá, treinadores! Animados para uma nova aventura? \nUma nova jornada está prestes a começar! No dia 04/12/2026 às 20:00 (ajustado ao seu fuso horário), o novo servidor Amber será aberto! \nChame seus amigos, prepare suas Poké Balls e comece a contagem regressiva para o lançamento. Fiquem de olho nas próximas novidades!",
+      "sections": [
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Disponível a partir de 19/11/2026 às 07:40 (ajustado ao seu fuso horário).",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Adicionamos o novo item Arena Superior Addon Ticket ao painel de criação da Training Room por 800 Arena Superior Tokens.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Alteramos as receitas de criação de todos os addons da Arena para utilizar o novo Arena Superior Addon Ticket.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Motivo: A alteração oferece mais liberdade e proteção aos jogadores, facilitando a troca e a venda desses cosméticos.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Builds e mecânicas",
+          "kind": "Builds e mecânicas",
+          "pokemon": null,
+          "num": null,
+          "change": "Alteramos o intervalo de uso dos ataques:",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Builds e mecânicas",
+          "kind": "Builds e mecânicas",
+          "pokemon": null,
+          "num": null,
+          "change": "Reduzimos o intervalo necessário entre a utilização de um ataque e outro, tornando suas execuções mais rápidas e fluidas.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Builds e mecânicas",
+          "kind": "Builds e mecânicas",
+          "pokemon": null,
+          "num": null,
+          "change": "Alteramos o funcionamento que impedia o jogador de utilizar ataques do Pokémon após tentar utilizar outro ataque que ainda não estivesse com o tempo de recarga totalmente concluído.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Builds e mecânicas",
+          "kind": "Builds e mecânicas",
+          "pokemon": null,
+          "num": null,
+          "change": "Observação: Com essa alteração, essa situação não bloqueará mais o uso dos demais ataques disponíveis.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Builds e mecânicas",
+          "kind": "Builds e mecânicas",
+          "pokemon": null,
+          "num": null,
+          "change": "Motivo: Essas alterações de qualidade de vida buscam tornar a jogabilidade diária mais fluida e reduzir a necessidade de pressionar repetidamente a mesma tecla ao utilizar ataques consecutivos.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Hunts e respawns",
+          "kind": "Hunts e respawns",
+          "pokemon": null,
+          "num": null,
+          "change": "Observação: Essas alterações não afetam Pokémon selvagens.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Liberamos a busca por jogadores offline ou de outros servidores por meio da janela de Perfil.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Quests e mapas",
+          "kind": "Quests e mapas",
+          "pokemon": null,
+          "num": null,
+          "change": "Atualizamos a lista de Pokémon disponíveis para remoção de Held Item pelo NPC Jorge.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Builds e mecânicas",
+          "kind": "Builds e mecânicas",
+          "pokemon": null,
+          "num": null,
+          "change": "Renomeamos o ataque Healarea para Aurora Wish.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Builds e mecânicas",
+          "kind": "Builds e mecânicas",
+          "pokemon": null,
+          "num": null,
+          "change": "Adicionamos a característica NEVERMISS aos ataques Aura Sphere, Shadow Punch, Nightmare, Spicy Extract, Clear Smog e Catastropika.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Builds e mecânicas",
+          "kind": "Builds e mecânicas",
+          "pokemon": null,
+          "num": null,
+          "change": "Removemos a característica NEVERMISS dos ataques Curse e Sharpen.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Builds e mecânicas",
+          "kind": "Builds e mecânicas",
+          "pokemon": null,
+          "num": null,
+          "change": "Adicionamos um efeito visual e uma mensagem animada quando o tempo de recarga de um ataque é reduzido por BOOST, como ocorre em batalhas PvP.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Builds e mecânicas",
+          "kind": "Builds e mecânicas",
+          "pokemon": null,
+          "num": null,
+          "change": "Revisamos o ataque Frenzy Plant. Agora, ele cancela os ataques Magnitude e Earthquake e impede que sejam utilizados durante 6 segundos.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Builds e mecânicas",
+          "kind": "Builds e mecânicas",
+          "pokemon": null,
+          "num": null,
+          "change": "Otimizamos o ataque Freeze-Dry para que o Pokémon possa redirecionar o raio de gelo frontal durante sua utilização. Também revisamos o tempo de atraso e seu funcionamento em situações raras nas quais o Pokémon é puxado durante o ataque.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Builds e mecânicas",
+          "kind": "Builds e mecânicas",
+          "pokemon": null,
+          "num": null,
+          "change": "Bloqueamos a possibilidade de refletir os ataques Spectral Crusher, Coaching, Thief, Trailblaze e Hand Water Gun, além da habilidade passiva Ninja Slice.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Builds e mecânicas",
+          "kind": "Builds e mecânicas",
+          "pokemon": null,
+          "num": null,
+          "change": "Reduzimos o alcance máximo do ataque Power-Up Punch.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Builds e mecânicas",
+          "kind": "Builds e mecânicas",
+          "pokemon": null,
+          "num": null,
+          "change": "Adicionamos as habilidades Rock Smash e Headbutt ao Pokémon Escavalier.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Observação: Essa alteração também afeta sua versão TR.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Hunts e respawns",
+          "kind": "Hunts e respawns",
+          "pokemon": null,
+          "num": null,
+          "change": "TM Shiny Tentacruel - Ajuste",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Builds e mecânicas",
+          "kind": "Builds e mecânicas",
+          "pokemon": null,
+          "num": null,
+          "change": "Aumentamos o tempo de recarga do ataque Acid de 8 para 10 segundos.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Builds e mecânicas",
+          "kind": "Builds e mecânicas",
+          "pokemon": null,
+          "num": null,
+          "change": "Reduzimos o tempo de recarga do ataque Wrap de 30 para 22 segundos.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Builds e mecânicas",
+          "kind": "Builds e mecânicas",
+          "pokemon": null,
+          "num": null,
+          "change": "Aumentamos a força dos ataques Acid e Sludge Wave.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Builds e mecânicas",
+          "kind": "Builds e mecânicas",
+          "pokemon": null,
+          "num": null,
+          "change": "Reduzimos a força do ataque Deadly Ooze.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Builds e mecânicas",
+          "kind": "Builds e mecânicas",
+          "pokemon": null,
+          "num": null,
+          "change": "Observação: O DPS final não foi alterado. A alteração visa otimizar a distribuição de dano do Pokémon e tornar seus tempos de recarga mais coerentes com a nova velocidade de utilização dos ataques.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Raichu",
+          "kind": "Hunts e respawns",
+          "pokemon": "Raichu",
+          "num": 26,
+          "change": "TM Shiny Raichu - Ajuste",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Builds e mecânicas",
+          "kind": "Builds e mecânicas",
+          "pokemon": null,
+          "num": null,
+          "change": "Reduzimos o tempo de recarga dos seguintes ataques:",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Thunder Shock: 10 → 8 segundos.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Thunderbolt: 20 → 12 segundos.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Builds e mecânicas",
+          "kind": "Builds e mecânicas",
+          "pokemon": null,
+          "num": null,
+          "change": "Aumentamos o tempo de recarga do ataque Volt Fang de 10 para 15 segundos.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Builds e mecânicas",
+          "kind": "Builds e mecânicas",
+          "pokemon": null,
+          "num": null,
+          "change": "Reduzimos a força do ataque Thunder Shock.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Builds e mecânicas",
+          "kind": "Builds e mecânicas",
+          "pokemon": null,
+          "num": null,
+          "change": "Aumentamos a força do ataque Volt Fang.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        }
+      ],
+      "source": "https://pxgtools.com.br/news",
+      "sourceType": "Comunicado público reproduzido"
+    },
+    {
       "id": "pxg-17-11-2026",
       "date": "17/11/2026",
       "title": "Atualização PXG · 17/11/2026",
