@@ -2,6 +2,80 @@
   "source": "https://pxgtools.com.br/news",
   "notes": [
     {
+      "id": "pxg-19-11-2026",
+      "date": "19/11/2026",
+      "title": "Atualização PXG · 19/11/2026",
+      "body": "Disponível a partir de 20/11/2026 às 07:40 (ajustado ao seu fuso horário). \nAlterações Gerais \nRemovemos o limite de 10 páginas da PokéCase. Agora, os itens podem ser organizados e visualizados em quantas páginas forem necessárias. \nCorreções \nCorrigimos um erro visual no ataque Dig dos Pokémon Krookodile, Shiny Krookodile e Excadrill, entre outros. \nFonte: canal oficial do PokeXGames no Discord. \nGiovanni's Return Quest Spotlight #4: Volcanic \nBoa tarde, pessoal! \nChegamos ao quarto dia de Spotlights da Giovanni's Return Quest! O clã escolhido na enquete de ontem foi Volcanic, e os destaques de hoje são Mega Delphox e TM Shiny Delphox! Confiram os Spotlights no https://discord.com/channels/459138221914193921/1083820092766306517. \nCom Seavell, Orebound, Malefic e Volcanic já apresentados, qual será o próximo clã? \nUma nova enquete ficará disponível por 8 horas para vocês escolherem os próximos destaques. Não deixem de votar!",
+      "sections": [
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Disponível a partir de 20/11/2026 às 07:40 (ajustado ao seu fuso horário).",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Removemos o limite de 10 páginas da PokéCase. Agora, os itens podem ser organizados e visualizados em quantas páginas forem necessárias.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Hunts e respawns",
+          "kind": "Hunts e respawns",
+          "pokemon": null,
+          "num": null,
+          "change": "Corrigimos um erro visual no ataque Dig dos Pokémon Krookodile, Shiny Krookodile e Excadrill, entre outros.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Fonte: canal oficial do PokeXGames no Discord.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Quests e mapas",
+          "kind": "Quests e mapas",
+          "pokemon": null,
+          "num": null,
+          "change": "Giovanni's Return Quest Spotlight #4: Volcanic",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Hunts e respawns",
+          "kind": "Hunts e respawns",
+          "pokemon": null,
+          "num": null,
+          "change": "Chegamos ao quarto dia de Spotlights da Giovanni's Return Quest! O clã escolhido na enquete de ontem foi Volcanic, e os destaques de hoje são Mega Delphox e TM Shiny Delphox! Confiram os Spotlights no https://discord.com/channels/459138221914193921/1083820092766306517.",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Com Seavell, Orebound, Malefic e Volcanic já apresentados, qual será o próximo clã?",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        },
+        {
+          "title": "Outras mudanças",
+          "kind": "Outras mudanças",
+          "pokemon": null,
+          "num": null,
+          "change": "Uma nova enquete ficará disponível por 8 horas para vocês escolherem os próximos destaques. Não deixem de votar!",
+          "impact": "Verificar aplicabilidade ao Raibolt nível 598, levando em conta tipo, perigo, acesso e redução de XP/loot. Não há taxa ou rendimento presumido."
+        }
+      ],
+      "source": "https://pxgtools.com.br/news",
+      "sourceType": "Comunicado público reproduzido"
+    },
+    {
       "id": "pxg-18-11-2026",
       "date": "18/11/2026",
       "title": "Atualização PXG · 18/11/2026",
